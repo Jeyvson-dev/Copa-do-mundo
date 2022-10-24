@@ -1,0 +1,98 @@
+html {
+    min-height: 100%;
+ }
+#tabelas {
+
+
+    display: flex;
+}
+#tabelas2{
+
+    
+    margin-top: 5%;
+    display: flex;
+}
+
+table {
+
+    border: 10px solid #DDFA2A;
+    border-radius: 10%;
+    background-color: #53b025;
+    width: 25%;
+}
+#button{
+    
+    margin-top: 8%;
+    margin-left: 50%;
+    background-color: #35E6C5 ;
+    text-align: center;
+    color: black;
+    width: 80px ;
+    height: 45px;
+    padding-top: 5px ;  
+    border-radius: 30px ; 
+    cursor: pointer;
+
+
+}
+#button2{
+    
+    margin-top: 8%;
+    margin-left: 50%;
+    background-color: #35E6C5 ;
+    text-align: center;
+    color: black;
+    width: 80px ;
+    height: 45px;
+    padding-top: 5px ;  
+    border-radius: 30px ; 
+    cursor: pointer;
+
+
+}
+#button3{
+    
+    margin-top: 8%;
+    margin-left: 50%;
+    background-color: #35E6C5 ;
+    text-align: center;
+    color: black;
+    width: 80px ;
+    height: 26px;
+    padding-top: 5px ;  
+    border-radius: 30px ; 
+    cursor: pointer;
+
+
+}
+#button4{
+
+    margin-top: 8%;
+    margin-left: 50%;
+    background-color: #35E6C5 ;
+    text-align: center;
+    color: black;
+    width: 80px ;
+    height: 45px;
+    padding-top: 5px ;  
+    border-radius: 30px ; 
+    cursor: pointer;
+
+}
+
+#chave2{
+margin-left: 49%;
+}
+#final{
+
+    margin-left: 40%;
+    margin-top: 30%;
+
+}
+body{
+
+    background-image: url(imagens/campo-de-futebol-da-arena-do-estádio-da-noite-57408900.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
